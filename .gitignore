@@ -1,0 +1,23 @@
+# Xcode
+build/
+*.xcarchive
+DerivedData/
+*.xcodeproj
+!MaktabtiApp.xcodeproj
+
+# Swift
+.build/
+*.swiftpm/
+.swiftpm/
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+
+# Artifacts
+*.ipa
+*.zip
+dist/
